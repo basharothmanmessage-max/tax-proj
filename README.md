@@ -53,6 +53,12 @@ Apache Maven
 >> mvn clean package
 >> java -jar target/sales-tax-system-1.0-SNAPSHOT.jar
 
+or use  run.bat / run.sh 
+
+
+
+<img width="454" height="107" alt="image" src="https://github.com/user-attachments/assets/66d26c69-1585-4e52-a477-b9d7a6b26009" />
+
 NOTE : make sure to the target folder has been created by MVN command 
 
 ***********************************************
