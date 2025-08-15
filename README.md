@@ -2,6 +2,8 @@ Sales Tax Application
 
 This is a Java Maven application that calculates sales tax and total cost for a list of items, demonstrating key Object-Oriented Programming (OOP) principles like abstraction, inheritance, and polymorphism.
 
+<img width="630" height="355" alt="image" src="https://github.com/user-attachments/assets/30deb33b-02ef-491f-8cae-a2cc23fffba6" />
+
 ***********************************************
 
 ***********************************************
