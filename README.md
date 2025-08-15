@@ -14,6 +14,9 @@ Tax Exemptions: Items categorized as books, food, or medical products are exempt
 Dynamic Processing: The application reads item details from the command line, processes each item, and generates a formatted receipt.
 
 
+<img width="435" height="452" alt="image" src="https://github.com/user-attachments/assets/d8d6d31d-d372-44f0-93d4-f78c56540370" />
+
+
 Configurable Tax rate :
 
 tax.properties : use this to configure the desired values
