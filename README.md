@@ -18,6 +18,9 @@ Configurable Tax rate :
 
 tax.properties : use this to configure the desired values
 
+<img width="1104" height="159" alt="image" src="https://github.com/user-attachments/assets/d94d46d5-9652-4054-8351-8a3192a49f40" />
+
+
 ***********************************************
 
 ***********************************************
